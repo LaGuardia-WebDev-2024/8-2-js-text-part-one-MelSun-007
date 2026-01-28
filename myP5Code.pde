@@ -15,7 +15,9 @@ draw = function(){
   }
 
   //🎯New Text Code Should Go Here 🡻
-
+fill(0,13,255);
+textSize(60);
+text("Wow",240,200);
 };
 
 //🟡Mouse Pressed Procedue - Runs When Mouse is Pressed on Canvas
